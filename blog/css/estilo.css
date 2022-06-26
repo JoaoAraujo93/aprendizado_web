@@ -1,0 +1,57 @@
+body{
+    margin:0;
+    padding:0:
+}
+
+
+
+p {
+    font-size: 18px;
+    color: #444444;
+    margin: 0px;
+    padding: 0px;
+
+}
+a, a:link {
+     text-decoration: nome;
+     color:white;
+}
+
+ 
+ a:visited {
+    color: #444444;
+    text-decoration: nome;
+
+    
+ }
+ 
+ 
+ a:hover {
+     color: #444444;
+ }
+ 
+
+ a:active {
+    color: #444444;
+    
+ }
+
+ .cabecalho {
+    width:100%;
+    background-color:#7b00c6
+ }
+
+ .cabecalho p {
+    color:white;
+
+ }
+
+
+ .rodape{
+    width:100%;
+    background-color:#7b00c6;
+ }
+.rodape p{
+    color:white;
+}
+ 
